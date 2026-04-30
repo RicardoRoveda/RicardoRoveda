@@ -6,7 +6,6 @@ Meu nome é Ricardo junior de Souza Roveda, tenho 32 anos e sou de Florianópoli
 
 ### 🤖 Linguagens e Tecnologias
 
-
 <img 
     align="left" 
     alt="Python" 
