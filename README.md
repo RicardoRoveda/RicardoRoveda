@@ -21,25 +21,12 @@ Meu nome é Ricardo junior de Souza Roveda, tenho 32 anos e sou de Florianópoli
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=RicardoRoveda&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/RicardoRoveda/RicardoRoveda/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/RicardoRoveda/RicardoRoveda/languages-output/languages.svg" height="150" alt="languages graph"  />
+</div>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoRoveda&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
-
-#
+###
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RicardoRoveda/RicardoRoveda/output/github-contribution-grid-snake-dark.svg">
